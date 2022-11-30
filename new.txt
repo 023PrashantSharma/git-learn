@@ -1,1 +1,2 @@
 Merge ad clicked
+my text from features from dev2
